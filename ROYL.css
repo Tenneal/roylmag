@@ -63,7 +63,7 @@ quote {
 }
 
 a.nav-link {
-    color: black;
+    color: #000000;
     font-family: 'Playfair Display', sans-serif;
     font-size: 1.25rem;
 }
@@ -74,12 +74,12 @@ a.link:hover {
 }
 
 a.link {
-    color:black;
+    color:#000000;
     text-decoration: none;
 }
 
 a:visited {
-  color: black;
+  color: #000000;
 }
 
 .excerpt {
