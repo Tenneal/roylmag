@@ -85,8 +85,7 @@ a:visited {
 .excerpt {
     color:black;
     text-decoration: none; 
-    padding:0;
-    margin:0;
+
 }
 
 .excerpt:hover {
@@ -96,6 +95,8 @@ a:visited {
 
 .main-img {
    z-index: 2;
+   padding:0;
+   margin:0;
 }
 
 .main-text {
@@ -108,7 +109,6 @@ a:visited {
 }
 
 .features-photo {
-    overflow: hidden;
     border-top: 6px solid white;
     border-left: 6px solid white;
     border-right: 6px solid white;
